@@ -9,4 +9,4 @@
 | _Noah_        | Created a track                                                       | Update to curved track?        |
 |               | Borrowed and implemented speed platform from platform group           | Add finish line?               |
 |               | Added coins                                                           |                                |
-|               | Added finish capsule                                                  |                                |
+|               | Added finish zone                                                     |                                |
