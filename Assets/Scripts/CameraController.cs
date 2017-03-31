@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour {
   public Transform player;
-  public float cameraSpeed = 1.0f;
+  public float cameraSpeed = 0.2f;
 	private Vector3 lookUp;
 	private Vector3 offset;
 
